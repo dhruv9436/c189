@@ -1,0 +1,11 @@
+Model Information:
+* title:	MP4/4 Steering wheel (1988)
+* source:	https://sketchfab.com/3d-models/mp44-steering-wheel-1988-bec20f3649c74cfcaa5a6fdddd7dea80
+* author:	Kenkento3D (https://sketchfab.com/kenkento.zapater)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MP4/4 Steering wheel (1988)" (https://sketchfab.com/3d-models/mp44-steering-wheel-1988-bec20f3649c74cfcaa5a6fdddd7dea80) by Kenkento3D (https://sketchfab.com/kenkento.zapater) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
